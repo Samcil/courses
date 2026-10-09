@@ -1,0 +1,101 @@
+index	video_id	title	duration_s
+1	oV0INtZT_n0	01 -  Introduction	424
+2	ewEC1XVxI_g	02 - Vectors	2355
+3	hOgKEplCx5E	03 - The Cartesian coordinate system	1784
+4	WXSK7YGGpIw	04 - The dot product	1260
+5	QTAUQhYJj3o	05 - The dot product - continued	993
+6	0GtIdkvwn6o	06 - The cross product	2274
+7	nRkb5rl960w	07 - The triple product	1344
+8	l9cDSOpHdIg	08 - The equation of a plane	1231
+9	-qe1gHF_f_Q	09 - Planes - continued	1494
+10	Jburu_V4hxk	10 - The equation of a line	1116
+11	wmuQU0NQt34	11 - Lines - continued	1356
+12	O4Zg-g8pngs	12 - Lines - continued	829
+13	k3PJObqMkh0	13 - Lines and planes	758
+14	krOIiBMMTtk	14 - Surfaces	1273
+15	6Csl624xwNo	15 - Surfaces - continued	1361
+16	2ZOzLeuy0KQ	16 - Surfaces - continued	529
+17	hCUdi9YSU_E	17 - Curves	1524
+18	NIL5Xy7a3HA	18 - Topology	3334
+19	cPIB0CKX_XU	19 - Sequences	1154
+20	q9QjzK0C7hA	20 - Functions and graphs	1072
+21	9wKbug9nlwk	21 - Level curves	1263
+22	SoUw8sMH6mQ	22 - Level surfaces	690
+23	RRDk6jQ0Usg	23 - Limits	1562
+24	8swFEfPz3Y8	24 - Properties of limits	725
+25	cDEuNAYFDjI	25 - Limits along curves	1246
+26	9KrSU9E5PhY	26 - Limits and polar coordinates	1660
+27	XUjDl24IDsg	27 - Iterated limits	727
+28	aBEtsoNqjTU	28 - Continuity	699
+29	nXKXCGDPTXI	29 - The intermediate value theorem	2426
+30	-8WJ5Va-uMM	30 - Tangents to curves	2275
+31	ItOt2dbq4-Y	31 - Partial derivatives	1161
+32	jw70GdLxA3Q	32 - Calculating partial derivatives	1299
+33	Ir3hdwfvmrc	33 - The tangent plane	1106
+34	2otcp-rTOf8	34 - Differentiability	1800
+35	ySRjD6wryU8	35 - Differentiability - continued	1572
+36	BYfTnrZXz3M	36 - Differentiability, continuity and partial derivatives	2048
+37	BThk5Ekrd04	37 - Directional derivatives	2442
+38	PD7_RsGwsFY	38 - The gradient	1673
+39	JlXvC5GJ0Po	39 - The chain rule	1734
+40	Iv7W82rOvAQ	40 - Higher order derivatives	1431
+41	gs33kxy8R74	41 - The Taylor polynomial	1628
+42	bk9IKHS5KbY	42 - The implicit function theorem	2149
+43	QjpIGJm6TLQ	43 - The implicit function theorem - continued	2257
+44	UYSwBx38cpQ	44 - Proof of the implicit function theorem	1267
+45	Fpbdt376rGQ	45 - The gradient is perpendicular to level surfaces	1858
+46	B-lreG2iuG0	46 - The implicit function theorem for systems of equations	2531
+47	5srenaRHCuo	47 - The inverse function theorem	1021
+48	OMGzQW7urvc	48 - Minima and maxima	2347
+49	4DgozJWvxJs	49 - Classification of critical points	3375
+50	A_MgTL0N3Eg	50  - Exterma subject to constraints	1193
+51	AxEVJoxv-Z8	51 - The method of Lagrange multipliers	1226
+52	_XZjDcuOMUo	52 -   A two variable example of Lagrange multipliers	1974
+53	Vhn9L_EbSBk	53 - A three variable example of Lagrange multipliers	1006
+54	FTkIAk0g3_g	54 - Proof of the Lagrange multipliers theorem	760
+55	Os4nboUEU5Q	55 - Lagrange multipliers for several constraints	1772
+56	bVfEb12T340	56 - Double integrals	2411
+57	sg4MZSgkqso	57 - Properties of double integrals	1815
+58	esynhNb0Wh8	58 - Iterated integrals	836
+59	wAqFPDzqeUM	59 - Simple domains	588
+60	yf6HquZiisw	60 - Double integrals on simple domains	1771
+61	bpMbXyU7QFE	61 - Examples of iterated integrals	1951
+62	5PftoDmao_g	62 - Changing order of integration	2068
+63	gM-o-Eproag	63 - Change of variables	1280
+64	EMsB-qqjhTo	64 - Examples of changing variables	1550
+65	FI9LNlRgaBM	65 - Examples of changing variables - continued	1712
+66	4uB8S9OoED8	66 - The requirement that J is not 0	978
+67	ahvmZX9WvVY	67 - The geometric meaning of J	2491
+68	TSLbzgAmJZ0	68 - A cool example	1560
+69	DCokVAEAnXA	69 - Triple integrals	1714
+70	Y8iq2WGWmK8	70 - Triple integrals over simple domains	1205
+71	0jLixru26OM	71 - Cylindrical coordinates	2049
+72	mhvsJID-DLc	72 - Spherical coordinates	1397
+73	I60690y_Bak	73 - One more example of changing variables	1150
+74	CEG2-F6xOiw	74 - The length of a curve	2489
+75	8ZwUVRVkvJU	75 - Line integrals of scalar functions	2037
+76	plEof93dVwI	76 - Line integrals of vector fields	2017
+77	JSvpMcFjBW4	77 - Green's theorem	1477
+78	42vEvHpXYP8	78 - Finding area with Green's theorem	989
+79	yzc6m0oFcuQ	79 - Evaluating line integrals with Green's theorem	2240
+80	WAio3l_vg0E	80 - Conservative fields	1476
+81	9jyKUjbUjSg	81 - Simply connected domains	1287
+82	WSl4Xjeue2Y	82 - Conservative fields in simply connected domains	1264
+83	SdrKUVmKtKM	83 - Conservative fields in simply connected domains - examples	1332
+84	AMupuzLMG1w	84 - Surfaces	2208
+85	FYJESsnGYMI	85 - Area of a surface	3416
+86	uD7o3iA55-A	86 - Surface integrals of scalar functions	1500
+87	0J2SJH7Tpzo	87 - Surface integrals of vector fields	1741
+88	inGnpsOc4gc	88 - Surface integrals of vector fields - example	1465
+89	ED48OWflnWc	89 - The divergence	1309
+90	swrh0xjRXmc	90 - The divergence theorem (Gauss)	2208
+91	GyWuZ7aJmeA	91 - More on the divergence	1804
+92	gD1nUeENCcY	92 - The curl	1171
+93	6ITbOC9jTLQ	93 - Stokes' theorem	1649
+94	8GQLf5fE8WU	94 - Using Stokes' theorem	1155
+95	1l946Z9aIuo	95 - Using Stokes' theorem - continued	3288
+96	EV2Pe2qIsu0	96 - Conservative fields in 3 dimensions	1032
+97	pz1Sd8JbKEw	97 - An example of a conservative field	1374
+98	G5XWpjVOGs8	98 - More on the curl	1294
+99	qV19lkDp3-g	99 - A review problem	2903
+100	Tdvb0Xr8LYY	100 - A review problem - continued	3654

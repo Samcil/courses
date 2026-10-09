@@ -1,0 +1,4 @@
+transcripts/
+_book/
+.quarto/
+__pycache__/

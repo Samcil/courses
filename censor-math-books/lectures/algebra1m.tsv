@@ -1,0 +1,74 @@
+index	video_id	title	duration_s
+1	aefKXYYXT6I	01 - Introduction	553
+2	8kXSBav0n20	02 - Sets of numbers	2518
+3	W5O2or-CA7s	03 - Fields	1921
+4	D7bbZ-kf2-o	04 - More properties of fields	1133
+5	8NzGosxnjP0	05 - Complex numbers	2854
+6	D_-5WPqxU_4	06 - The Complex conjugate,  the modulus and division	3090
+7	v5_7o1dobnw	07 - Polar form	1679
+8	0p9y6u0VyVk	08 - Multiplication,  division,  powers and roots	2366
+9	YXR_O1xsx2I	09 - Polynomials	1000
+10	88YUeigknNg	10 - Roots of polynomials	3986
+11	GzGtKIsPMTs	11 - Matrices	2101
+12	7F6yKmGTx9g	12 - Operations on matrices	1309
+13	Pv1TzleVN8o	13 - Matrix multiplication	1308
+14	e5Y1_097HZA	14 - Properties of matrix multiplication	2022
+15	DZj8i2F5SQo	15 - Systems of linear equations	1340
+16	EfDJQxjwQm8	16 - Solving systems of linear equations	1021
+17	_Dvi4UllI-Y	17 - The method of row-reduction	3726
+18	d1ze8Y2ZKdU	18 - Determining the number of solutions	2858
+19	SfTTusMDyMM	19 - Homogeneous vs.  non  homogeneous systems	2731
+20	jLuoQeuAYqg	20 - The space R^n	1752
+21	OK3Wn_47QPY	21 - Vector spaces	2778
+22	RG3DVZ6pQGc	22 - Vector subspaces	1824
+23	YBraPHepii8	23 - More examples of subspaces	1283
+24	Rcj1-E3SAhs	24 - Intersections and sums of subspaces	1625
+25	qs240Jhl6Rs	25 - Direct sums of subspaces	1762
+26	-mGAxFDIHyg	26 -  Linear combinations and spans	2120
+27	MrR3Gbs1ExM	27 -  Determining if v belongs to a span	1134
+28	T1gIx93IbNw	28 -  Linear independence	1214
+29	DZH-0-9jDKw	29 -  Determining linear independence	3547
+30	PzoNA8KLFaw	30 -  Theorems about linear independence	2396
+31	luzWRt1a4fw	31 -  More on spans and linear independence	2246
+32	GzGxh2TZFxM	32 -  Bases of vector spaces	1218
+33	d-W82f52mTM	33 -  The dimension of a vector space	1317
+34	Sa68cBN8fbY	34 -  Properties of bases	1064
+35	0T8eaU_Zo30	35 -  Properties of bases (continued)	3708
+36	ZizWun0RlP0	36  -  Bases and dimensions of subspaces	3136
+37	XxRwKd9qPxw	37 - Coordinate vectors	2055
+38	XtGLbkG-riI	38 -  The dimension of Row(A) and Col(A)	2687
+39	407N5AXs1aM	39 -  The rank-nullity theorem	1961
+40	eVzFmHjrsrU	40 -  Invertible matrices	1257
+41	29Sy8TK4plo	41 -  Determining invertibility and finding the inverse	3667
+42	_Se_ZiFNVzU	42 -  Determinants	2061
+43	19qaYFGZ-cA	43 -  Properties of determinants	1893
+44	yr8eT-DH4l0	44 -  Invertibility and the determinant	1268
+45	g131QFW7mi8	45 -  The matrix adj(A)	1843
+46	1zbxyQiA4Fc	46 -  Cramer's rule	792
+47	wuHGu86NuKM	47 -  Which method is better?	422
+48	-M9QWpJa-ls	48 -  Linear maps	2239
+49	TRjgPkjsTe0	49 -  Ker(T) and Im(T)	2068
+50	hFCPsQdxhGs	50 -  Some geometric examples	1608
+51	r13KE8iTjyc	51 -  Properties of Ker(T) and Im(T)	2407
+52	HaEVxx5xVII	52 -  The rank of T	1518
+53	a5pTAuNm--k	53 -  The rank-nullity theorem revisited	2232
+54	tRbXrnoVJI8	54 -  Matrix representation of linear maps	2527
+55	DKshIFvXSns	55 -  Matrix representation of linear maps (continued)	3627
+56	37H5Nv1ZRpk	56 -  Operations on linear maps	3501
+57	dKmwstY0WWw	57 -  Compatability with operations on matrix representations	1948
+58	8Z9rsNJBdXw	58 -  Isomorphism	2502
+59	EvjKmMtsr7M	59 -  Hom(V,W)	2651
+60	MJic8o5ph5M	60 -  Similarity of matrices	4235
+61	l2BEIOnG54k	61 -  Properties of similar matrices	1349
+62	ABNp7qpio-c	62 -  Diagonalization	1532
+63	weQyIOLa-Uo	63 -  Diagonalization -  a simple example	2840
+64	Y_PfMmf3ego	64 -  Finding eigenvalues and eigenvectors	4298
+65	ChF6SauqbAM	65 -  An example	2099
+66	eDbW839_zd4	66 -  Multiplicities of eigenvalues	1991
+67	1AeSTFaLHo0	67 -  More on eigenvalues	4421
+68	zxswxDVRxJk	68 -  Powers of diagonalizable matrices	651
+69	eLgh1RYxViU	69  - The Cayley-Hamilton theorem	635
+70	raW8dUc1Ts0	70 -  Inner product	3908
+71	HgqIWKL7L58	71 -  Norm	1824
+72	1Vj67d6qIfI	72 -  Inner product and norm give geometry	3226
+73	jhVMytb7nUA	73 -  Orthogonality	3434
